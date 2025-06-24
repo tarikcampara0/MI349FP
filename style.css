@@ -8,8 +8,7 @@ body {
 }
 
 header.gamers {
-    background: black;
-    color: white;
+    background: cyan;
     position: sticky;
     top: 0;
     padding: 20px;
