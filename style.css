@@ -87,6 +87,18 @@ article.aboutauthor {
     border-radius: 8px;
 }
 
+.form-sections {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#signup, #request {
+    flex: 1;
+}
+
 form {
     display: flex;
     flex-direction: column;
@@ -140,14 +152,4 @@ table thead {
     color: white;
 }
 
-.form-sections {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    max-width: 900px;
-    margin: 0 auto;
-}
 
-#signup, #request {
-    flex: 1;
-}
