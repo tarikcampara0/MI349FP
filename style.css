@@ -1,0 +1,8 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 40px;
+    padding: 40px;
+    color: black;
+    background:white;
+    border-top: 20px solid black;
+}
