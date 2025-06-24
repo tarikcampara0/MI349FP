@@ -19,3 +19,18 @@ nav ul {
     padding: 10px;
     margin: 10px;
 }
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: black;
+}
