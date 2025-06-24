@@ -8,8 +8,14 @@ body {
 }
 
 header.gamers {
-    background: cyan;
+    background: rgb(10, 165, 165);
     position: sticky;
     top: 0;
     padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
 }
