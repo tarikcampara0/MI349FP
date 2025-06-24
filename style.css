@@ -6,3 +6,11 @@ body {
     background:white;
     border-top: 20px solid black;
 }
+
+header.gamers {
+    background: black;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    box-shadow 0 4px 6px rgba(0,0,0,0.1);
+}
