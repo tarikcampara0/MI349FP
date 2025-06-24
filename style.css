@@ -72,3 +72,17 @@ article.aboutauthor {
     margin-top: 2px;
     font-style: bold;
 }
+
+#request {
+    background-color: darkslategrey;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+#signup {
+    background-color: darkslategrey;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
