@@ -58,3 +58,17 @@ article.aboutauthor {
     height: 200px;
     border-radius: 6px;
 }
+
+.float-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.float-image figcaption {
+    font-size: 0.7em;
+    color: black;
+    text-align: center;
+    margin-top: 2px;
+    font-style: bold;
+}
