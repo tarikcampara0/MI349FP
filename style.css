@@ -34,3 +34,20 @@ nav a {
 nav a:hover {
     color: black;
 }
+
+section {
+    background-color:bisque;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+article.aboutauthor {
+    background-color:beige;
+    color: black;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
