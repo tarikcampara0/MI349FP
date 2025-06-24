@@ -51,3 +51,10 @@ article.aboutauthor {
     margin-bottom: 30px;
     border-radius: 20px;
 }
+
+.float-image {
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+}
