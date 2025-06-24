@@ -81,7 +81,7 @@ article.aboutauthor {
 }
 
 #signup {
-    background-color: darkslategrey;
+    background-color: white;
     padding: 20px;
     margin-top: 40px;
     border-radius: 8px;
@@ -105,4 +105,9 @@ button {
 button:hover {
     background-color: blanchedalmond;
     color: black
+}
+
+h1 {
+    font-size: 2.8em;
+    margin-bottom: 0;
 }
