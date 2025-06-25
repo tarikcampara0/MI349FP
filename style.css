@@ -195,3 +195,15 @@ table thead {
     color: white;
 }
 
+.button-link {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.button-link:hover {
+  background-color: black;
+}
