@@ -10,7 +10,6 @@ header.gamers {
     background: rgb(78, 24, 66);
     position: sticky;
     top: 0;
-    padding: -20px;
 }
 
 header.gamers h1 {
@@ -27,7 +26,6 @@ header.gamers h1 {
     width: 80px; 
     height: auto;
     border-radius: 8px;
-    box-shadow: 2px;
 }
 
 nav ul {
@@ -85,7 +83,7 @@ article.aboutauthor {
     color: black;
     text-align: center;
     margin-top: 2px;
-    font-style: bold;
+    font-style: oblique;
 }
 
 #request {
